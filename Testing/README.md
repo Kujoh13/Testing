@@ -1,2 +1,0 @@
-# Testing
-Run main.cpp
